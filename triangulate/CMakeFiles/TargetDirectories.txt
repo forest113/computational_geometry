@@ -1,0 +1,5 @@
+/home/user/cgal/CGAL-5.4/triangulate/CMakeFiles/edit_cache.dir
+/home/user/cgal/CGAL-5.4/triangulate/CMakeFiles/rebuild_cache.dir
+/home/user/cgal/CGAL-5.4/triangulate/CMakeFiles/cgal_check_build_system.dir
+/home/user/cgal/CGAL-5.4/triangulate/CMakeFiles/ALL_CGAL_TARGETS.dir
+/home/user/cgal/CGAL-5.4/triangulate/CMakeFiles/triangulate.dir

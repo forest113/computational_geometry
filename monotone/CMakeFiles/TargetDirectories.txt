@@ -1,0 +1,5 @@
+/home/user/cgal/CGAL-5.4/monotone/CMakeFiles/edit_cache.dir
+/home/user/cgal/CGAL-5.4/monotone/CMakeFiles/rebuild_cache.dir
+/home/user/cgal/CGAL-5.4/monotone/CMakeFiles/cgal_check_build_system.dir
+/home/user/cgal/CGAL-5.4/monotone/CMakeFiles/ALL_CGAL_TARGETS.dir
+/home/user/cgal/CGAL-5.4/monotone/CMakeFiles/make_monotone.dir
